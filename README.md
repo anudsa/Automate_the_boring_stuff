@@ -1,2 +1,1 @@
-# Automate_the_boring_stuff
-Code from the course.
+Scripts for automation with python
