@@ -17,3 +17,4 @@ with open('inputFile.txt','r') as file:
         #Evaluating grades
         if(lineSplit[2]=='F'):
             print(line)
+            
