@@ -1,2 +1,1 @@
-for author in authors:
-    print(author.text)
+exercise/list_basic/?page=1
